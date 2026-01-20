@@ -318,6 +318,7 @@
   justify-content: space-between;
   padding: 8px;
   background-color: rgba(249, 249, 249, 1);
+  cursor: pointer;
 }
 .sectionsPick input[type="radio"] {
   display: none;
